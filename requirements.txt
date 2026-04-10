@@ -2,6 +2,4 @@ streamlit
 pandas
 numpy
 yfinance
-ta
-openpyxl
-matplotlib
+plotly
