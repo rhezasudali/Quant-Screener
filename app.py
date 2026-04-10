@@ -13,7 +13,7 @@ from ta.volume import MFIIndicator, OnBalanceVolumeIndicator
 # Konfigurasi Halaman Website
 st.set_page_config(page_title="Quant Screener", page_icon="🚀", layout="wide")
 
-FILE_PATH = "Stock List  - 20250805.xlsx"  
+FILE_PATH = "Stock List - 20250805.xlsx"  
 PERIOD = "1y"
 INTERVAL = "1d"
 MIN_DATA = 200
